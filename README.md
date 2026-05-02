@@ -19,4 +19,4 @@ A Python-based system that automatically locks your laptop when a trusted Blueto
 ## Run
 
 pip install -r requirements.txt
-python main.py
+python autolock.py
